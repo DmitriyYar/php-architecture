@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.user {
+    color: chocolate;
+}
+
+.btn {
+    text-decoration: none;
+    background-color: #4b51ef;
+    border-radius: 5px;
+    padding: 5px 5px;
+    color: #ffffff;
+    box-shadow: 0px 0px 0px 3px rgb(82 146 124 / 77%)
+}
+.task {
+    padding-top: 10px;
+}
